@@ -1,10 +1,14 @@
+import models.Zahl;
+
 public class Main {
+
 
     /**
      *
      * @param x
      * @return
      */
+
     public static double square(double x){
         return x*x;
     }
